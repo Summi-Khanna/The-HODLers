@@ -22,7 +22,7 @@ npm run start
 
 npm run build
  
-# How The Game Is Played
+# How The Game is Played
 
 https://www.youtube.com/watch?v=tvl7IdGODzo
 
