@@ -23,7 +23,7 @@ npm run start
 npm run build
  
  
- ![Valhalla Coin Flip](https://user-images.githubusercontent.com/91238235/167965508-703d1f38-0bce-4bb8-924b-d5c1f8bf3d6d.png)
+https://www.youtube.com/watch?v=tvl7IdGODzo
 
 
 # Contributors
