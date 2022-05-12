@@ -28,14 +28,14 @@ npm run build
 
 # Contributors
 
-Christopher Miklas: https://www.linkedin.com/in/christopher-miklas/
+Christopher Miklas: www.linkedin.com/in/christopher-miklas
 
-Nguyen Dao: https://www.linkedin.com/in/nguyen-dao-a55669215/
+Nguyen Dao: www.linkedin.com/in/nguyen-dao-a55669215
 
-Matthew Rudd: https://www.linkedin.com/in/matthewp-rudd/
+Matthew Rudd: www.linkedin.com/in/matthewp-rudd
 
-Phil Hills: https://www.linkedin.com/in/philhills/
+Phil Hills: www.linkedin.com/in/philhills
 
-Summi Khanna: https://www.linkedin.com/in/summi-khanna-004a60187/
+Summi Khanna: www.linkedin.com/in/summi-khanna-004a60187
 
 Sean Harrington: www.linkedin.com/in/sean-harrington16
