@@ -2,8 +2,6 @@
 
 Welcome to our game of chance, in this game you get to gamble your Ethereum. Until. You. Die. Then your account will be shipped out to sea and set on fire. Or, you can raid the house and pillage our plunder in your quest to concor the world. Take a chance to put your hoard at the top of the world!
 
-![Valhalla Coin Flip](https://user-images.githubusercontent.com/91238235/168093314-a417e46f-c33a-4dab-9c2d-7f4b0b556c17.png)
-
 # Libraries
 
 Solidity NPM: install -g solc
@@ -15,6 +13,8 @@ SH NPM: install -g serve -s build
 # Usage
 
 After downloading all libraries, connect MetaMask Testnet Wallet and run the .sol file below and start flipping! Your max bet (.xx) can only be the same amount as the Jackpot... May the odds be ever in your favor!
+
+![Valhalla Coin Flip](https://user-images.githubusercontent.com/91238235/168093314-a417e46f-c33a-4dab-9c2d-7f4b0b556c17.png)
 
 # Run
 
