@@ -8,7 +8,7 @@ Welcome to our game of chance, in this game you get to gamble your Ethereum. Unt
 
 Solidity NPM: install -g solc
 
-Download NPM: curl -qL https://www.npmjs.com/install.sh 
+Download NPM: [curl -qL](https://www.npmjs.com/install.sh) 
 
 SH NPM: install -g serve -s build
 
@@ -34,7 +34,7 @@ npm run build
 
 # How The Game is Played
 
-https://www.youtube.com/watch?v=tvl7IdGODzo
+[Demo link](https://www.youtube.com/watch?v=tvl7IdGODzo)
 
 ---
 
