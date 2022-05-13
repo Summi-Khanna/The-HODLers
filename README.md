@@ -54,7 +54,7 @@ Sean Harrington: www.linkedin.com/in/sean-harrington16
 
 ---
 
-## License
+# License
 
 MIT License
 
